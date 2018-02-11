@@ -32,7 +32,7 @@ For the purposes of this challenge, if a donor had previously contributed to any
 The first line of `percentile.txt` contains the percentile you should compute for these given input pair. For the percentile computation use the **nearest-rank method** [as described by Wikipedia](https://en.wikipedia.org/wiki/Percentile).
 
 ## Documentation of Successful Run:
-
+![Proof of success illustration](images/Screen%Shot%2018-02-11%at%2.52.08%PM.png)
 
 ## Repo directory structure
 
